@@ -12,11 +12,12 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=josptrra&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=6" alt="josptrra" style="display:inline-block;" />
 
 
+<img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josptrra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="josptrra" style="display:inline-block;" />
+
 </div>
 
 <div align="center">
     <a href = "https://github.com/josptrra/">
-            <img src="https://github-profile-trophy.vercel.app/?username=josptrra&column=-1&theme=tokyonight" /> 
         <br>
         <br>
              <img src="https://github-readme-activity-graph.vercel.app/graph?username=josptrra&theme=github-compact" />
