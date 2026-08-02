@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Julio Syah Putra
 
-🎓 I’m currently a 7th-semester undergraduate student majoring in Informatics Engineering at Universitas Sriwijaya.  
+🎓 I’m graduated student majoring in Informatics Engineering at Universitas Sriwijaya.  
 🚀 I’m deeply passionate about **Front-End Development** and **Data Science**, and I enjoy building interactive web applications and uncovering insights from data.  
 
 🌱 I’m an alumnus of:
